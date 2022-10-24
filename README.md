@@ -1,5 +1,5 @@
-NetFlix Clone with React + Firebase
+My Portfolio Website with React + Firebase
 
-Click in the link to see the project https://linkedin-clone-fb083.web.app/
+Click in the link to see the demo https://nzolaportifolio.web.app
 
-![It is an image](https://github.com/NzolaKiampava/linkedin-clone/blob/main/src/Opera%20Instant%C3%A2neo_2022-07-31_131322_localhost.png)
+![It is an image](https://github.com/NzolaKiampava/my-portfolio-website/blob/main/src/assets/myportfolio.png)
