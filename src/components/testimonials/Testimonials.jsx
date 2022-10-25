@@ -18,22 +18,22 @@ const data = [
   {
     avatar: AVATAR1,
     name: 'Prudêncio Miguel',
-    review: 'lorem ipsum dolor sit amet, consectetuer adipiscin elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna!!'
+    review: 'Very quick to solve hard problems. I love your work!!'
   },
   {
     avatar: AVATAR2,
     name: 'John Heavy',
-    review: 'lorem ipsum dolor sit amet, consectetuer adipiscin elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna!!'
+    review: 'Nice to talk, and very honest!'
   },
   {
     avatar: AVATAR3,
     name: 'Jordania Antonio',
-    review: 'lorem ipsum dolor sit amet, consectetuer adipiscin elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna!!'
+    review: 'Clean Service, good developer!'
   },
   {
     avatar: AVATAR4,
     name: 'Edna Arieth',
-    review: 'lorem ipsum dolor sit amet, consectetuer adipiscin elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna!!'
+    review: 'So friendly and clever programmer!!'
   }
 ]
 const Testimonials = () => {
